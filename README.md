@@ -19,7 +19,9 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-<h3 align="center">ATIVIDADE<h3/>
+<h3 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=0277BD&size=25&center=true&vCenter=true&width=600&lines=ATIVIDADE" />
+  <h3/>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BrenoT1"/>
 </p>
