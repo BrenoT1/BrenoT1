@@ -1,4 +1,4 @@
-## Hi there 👋
+## ME CHAMO BRENO, SOU UM PROGRAMADOR FRONT END, MEU OBJETIVO É SE TORNAR UM PROGRAMADOR FULLSTACK
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -8,5 +8,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BrenoT1"/>
-
+</p>
