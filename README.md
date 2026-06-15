@@ -1,6 +1,6 @@
+ <h3 align="center">SOBRE MIM<h3/>
 
-
-<h2 align="center"> ME CHAMO BRENO, SOU UM PROGRAMADOR FRONT END, ONDE MEU OBJETIVO É SE TORNAR UM PROGRAMADOR FULLSTACK </h2>
+<h2 align="center"> Me chamo breno, sou um programador front end, onde meu objetivo é se tornar um programador fullstack </h2>
 
 <h3 align="center">CONHECIMENTOS<h3/>
 
