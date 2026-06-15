@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <!--
 **BrenoT1/BrenoT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
