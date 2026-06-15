@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0277BD&size=25&center=true&vCenter=true&width=600&lines=SOBRE+MIM" />
 </h3>
 
-<h2 align="center"> Me chamo breno, sou um programador front end, onde meu objetivo é se tornar um programador fullstack </h2>
+<h2 align="center"> Me chamo breno, sou um programador front end, onde meu objetivo é se tornar um programador fullstack </h2>  <br>
 
 <h5 align="center"> -Criativo -Designer -Developer</h5>
 
