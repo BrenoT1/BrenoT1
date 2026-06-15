@@ -12,6 +12,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+<h3 align="center">CONHECIMENTOS<h3/>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BrenoT1"/>
 </p>
