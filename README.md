@@ -1,5 +1,6 @@
-<h2 align="center" >  </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=25&center=true&vCenter=true&width=500&lines=ME+CHAMO+BRENO,+SOU+UM PROGRAMADOR FRONT END, MEU OBJETIVO É SE TORNAR UM PROGRAMADOR FULLSTACK"/> 
+
+
+<h2 align="center"> ME CHAMO BRENO, SOU UM PROGRAMADOR FRONT END, MEU OBJETIVO É SE TORNAR UM PROGRAMADOR FULLSTACK </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -12,3 +13,4 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BrenoT1"/>
 </p>
+<img src="https://github.com/SEUUSER/SEUUSER/blob/output/github-contribution-grid-snake.svg"/>
