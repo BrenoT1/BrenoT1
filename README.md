@@ -1,5 +1,5 @@
  <h3 align="center">SOBRE MIM<h3/>
- <img src"(https://readme-typing-svg.herokuapp.com?color=F7A41D&size=25&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Breno;Front-end+Developer;Futuro+Fullstack;Bem-vindo+ao+meu+perfil!)"/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A41D&size=25&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Breno;Front-end+Developer;Futuro+Fullstack;Bem-vindo+ao+meu+perfil!)
 
 <h2 align="center"> Me chamo breno, sou um programador front end, onde meu objetivo é se tornar um programador fullstack </h2>
 
