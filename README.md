@@ -1,6 +1,8 @@
 
 
-<h2 align="center"> ME CHAMO BRENO, SOU UM PROGRAMADOR FRONT END, MEU OBJETIVO É SE TORNAR UM PROGRAMADOR FULLSTACK </h2>
+<h2 align="center"> ME CHAMO BRENO, SOU UM PROGRAMADOR FRONT END, ONDE MEU OBJETIVO É SE TORNAR UM PROGRAMADOR FULLSTACK </h2>
+
+<h3 align="center">CONHECIMENTOS<h3/>
 
 <p align="center">
   <a href="https://skillicons.dev">
