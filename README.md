@@ -8,4 +8,5 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoT1)
 
