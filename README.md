@@ -1,6 +1,7 @@
 <h1 align="center"> ME CHAMO BRENO, SOU UM PROGRAMADOR FRONT END, MEU OBJETIVO É SE TORNAR UM PROGRAMADOR FULLSTACK </h1>
 
 <p align="center">
+  CONHECIMENTO
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,react" />
   </a>
