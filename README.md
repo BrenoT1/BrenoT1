@@ -1,4 +1,5 @@
-<h2 align="center"> ME CHAMO BRENO, SOU UM PROGRAMADOR FRONT END, MEU OBJETIVO É SE TORNAR UM PROGRAMADOR FULLSTACK </h2>
+<h2 align="center" > ME CHAMO BRENO, SOU UM PROGRAMADOR FRONT END, MEU OBJETIVO É SE TORNAR UM PROGRAMADOR FULLSTACK </h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A41D&size=25&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Breno;Desenvolvedor+Front-end;Bem-vindo+ao+meu+perfil!)
 
 <p align="center">
   <a href="https://skillicons.dev">
