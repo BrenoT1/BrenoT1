@@ -16,4 +16,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BrenoT1"/>
 </p>
-<img src="https://github.com/SEUUSER/SEUUSER/blob/output/github-contribution-grid-snake.svg"/>
