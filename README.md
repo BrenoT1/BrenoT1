@@ -33,7 +33,7 @@
  <a href="https://www.instagram.com/brenorxz/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
- <a href="https://www.linkedin.com/in/breno-germano-de-souza-2184432b/">
+ <a href="www.linkedin.com/in/breno-germano-de-souza">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
