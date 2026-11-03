@@ -17,11 +17,13 @@
   </a>
 </p>
 <h3 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=0277BD&size=25&center=true&vCenter=true&width=600&lines=ATIVIDADE" />
+   <img src="https://readme-typing-svg.herokuapp.com?color=0277BD&size=25&center=true&vCenter=true&width=600&lines=APRENDENDO" />
   <h3/>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BrenoT1"/>
-</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+
 
 <h3 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=0277BD&size=25&center=true&vCenter=true&width=600&lines=CONTATO" />
@@ -30,5 +32,8 @@
 <p align="center">
  <a href="https://www.instagram.com/brenorxz/">
     <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+ <a href="https://www.linkedin.com/in/breno-germano-de-souza-2184432b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
