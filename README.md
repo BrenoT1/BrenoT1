@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0277BD&size=25&center=true&vCenter=true&width=600&lines=SOBRE+MIM" />
 </h3>
 
-<h2 align="center"> Me chamo Breno, sou um programador front end, onde meu objetivo é se tornar um programador fullstack </h2>
+<h2 align="center"> Me chamo Breno, sou um programador Front End, atualmente estou cursando Ciências da Computação, meu foco principal é se tornar um programador FullStack </h2>
 
 <h5 align="center"> -Criativo -Designer -Developer</h5>
 
@@ -33,7 +33,7 @@
  <a href="https://www.instagram.com/brenorxz/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
- <a href="www.linkedin.com/in/breno-germano-de-souza">
+ <a href="https://www.linkedin.com/in/breno-germano-de-souza/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
